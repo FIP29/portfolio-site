@@ -20,15 +20,14 @@ export function Contact() {
   };
 
   const contactInfo = [
-    { icon: Mail, text: "fokhrul@example.com", href: "mailto:fokhrul@example.com" },
-    { icon: Phone, text: "+1 (555) 123-4567", href: "tel:+15551234567" },
+    { icon: Mail, text: "fokhrul.islam.code404@gmail.com", href: "fokhrul.islam.code404@gmail.com" },
+    { icon: Phone, text: "+880 1402 416546", href: "tel:+8801402416546" },
     { icon: MapPin, text: "Available for Remote Work", href: "#" },
   ];
 
   const socialLinks = [
     { icon: Github, href: "https://github.com", label: "GitHub", color: "hover:text-[#ff6b6b]" },
     { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn", color: "hover:text-[#4a5fc1]" },
-    { icon: Twitter, href: "https://twitter.com", label: "Twitter", color: "hover:text-[#ffa500]" },
   ];
 
   return (
@@ -53,7 +52,7 @@ export function Contact() {
             <div className="space-y-2">
               <h3 className="text-2xl font-bold text-gray-200 mb-2">Let's Work Together</h3>
               <p className="text-gray-400 leading-relaxed">
-                I'm available for freelance projects, full-time opportunities, or just a chat about technology. 
+                I'm available for freelance projects, full-time opportunities, or just a chat about technology.
                 Feel free to reach out through any of the channels below.
               </p>
             </div>
