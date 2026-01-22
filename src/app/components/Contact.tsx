@@ -20,8 +20,8 @@ export function Contact() {
   };
 
   const contactInfo = [
-    { icon: Mail, text: "fokhrul.islam.code404@gmail.com", href: "fokhrul.islam.code404@gmail.com" },
-    { icon: Phone, text: "+880 1402 416547", href: "tel:+8801402416546" },
+    { icon: Mail, text: "fokhrul.islam.code404@gmail.com", href: "mailto:fokhrul.islam.code404@gmail.com" },
+    { icon: Phone, text: "+880 1402 416546", href: "tel:+8801402416546" },
     { icon: MapPin, text: "Available for Remote Work", href: "#" },
   ];
 
